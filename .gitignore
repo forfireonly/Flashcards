@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Problems/Substitution cipher/out/
+/Problems/Substitution cipher/out/production/classes/
+/Problems/Symmetric difference/out/
+/Problems/Symmetric difference/out/production/classes/
+/Problems/The index of the first max in an array/out/
+/Problems/The index of the first max in an array/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/Three numbers/out/
+/Problems/Three numbers/out/production/classes/
+/Problems/Time/out/
+/Problems/Time/out/production/classes/
+/Problems/Too many cats/out/
+/Problems/Too many cats/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Problems/Users/out/
+/Problems/Users/out/production/classes/
+/Problems/War and Peace/out/
+/Problems/War and Peace/out/production/classes/

@@ -1,0 +1,3 @@
+France=Paris
+Japan=Tokyo
+Russia=Moscow
